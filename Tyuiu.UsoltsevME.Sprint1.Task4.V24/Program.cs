@@ -8,9 +8,9 @@ namespace Tyuiu.UsoltsevME.Sprint1.Task4.V24
         {
             DataService ds = new DataService();
 
-            Console.WriteLine("************************************************************");
-            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                         *");
-            Console.WriteLine("************************************************************");
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
+            Console.WriteLine("***************************************************************************");
 
             Console.Write("Введите x: ");
             double x = Convert.ToDouble(Console.ReadLine());

@@ -1,5 +1,12 @@
 <Solution>
-  <Project Path="Tyuiu.UsoltsevME.Sprint1.Task4.V24.Lib/Tyuiu.UsoltsevME.Sprint1.Task4.V24.Lib.csproj" />
-  <Project Path="Tyuiu.UsoltsevME.Sprint1.Task4.V24.Test/Tyuiu.UsoltsevME.Sprint1.Task4.V24.Test.csproj" />
-  <Project Path="Tyuiu.UsoltsevME.Sprint1.Task4.V24/Tyuiu.UsoltsevME.Sprint1.Task4.V24.csproj" />
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.UsoltsevME.Sprint1.Task4.V24.Lib/Tyuiu.UsoltsevME.Sprint1.Task4.V24.Lib.csproj" />
+    <Project Path="Tyuiu.UsoltsevME.Sprint1.Task4.V24.Test/Tyuiu.UsoltsevME.Sprint1.Task4.V24.Test.csproj" />
+    <Project Path="Tyuiu.UsoltsevME.Sprint1.Task4.V24/Tyuiu.UsoltsevME.Sprint1.Task4.V24.csproj" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.UsoltsevME.Sprint1.Task5.V7.Lib/Tyuiu.UsoltsevME.Sprint1.Task5.V7.Lib.csproj" Id="66973a05-1c5a-40cb-98d3-6e0007b3ec3b" />
+    <Project Path="Tyuiu.UsoltsevME.Sprint1.Task5.V7.Test/Tyuiu.UsoltsevME.Sprint1.Task5.V7.Test.csproj" Id="60309e1e-9121-4dcf-bac6-9d6e447993ad" />
+    <Project Path="Tyuiu.UsoltsevME.Sprint1.Task5.V7/Tyuiu.UsoltsevME.Sprint1.Task5.V7.csproj" Id="43abf53a-6b11-4f21-a452-d06f337cf7de" />
+  </Folder>
 </Solution>
