@@ -18,12 +18,21 @@ namespace Tyuiu.UsoltsevME.Sprint1.Task4.V24
             Console.Write("Введите y: ");
             double y = Convert.ToDouble(Console.ReadLine());
 
+            if (x <= 0)
+            {
+                Console.WriteLine("Ошибка: x должен быть больше 0.");
+            }
+            else
+            {
+
+            double result = ds.Calculate(x, y);
+            
             Console.WriteLine("************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                               *");
             Console.WriteLine("************************************************************");
 
             Console.WriteLine("Lnxy/x+корень2y^2 - " + ds.Calculate(x, y));
-
+            }
             Console.ReadKey();
         }
     }
